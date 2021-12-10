@@ -32,7 +32,7 @@ function renderGame() {
     want_el.textContent = "sad lol 😢";
   }
   button_el.style.visibility = "hidden";
-  console.log(jwb.textContent);
+  console.log(sum_El.textContent);
   // console.log(isAlive);
 }
 
